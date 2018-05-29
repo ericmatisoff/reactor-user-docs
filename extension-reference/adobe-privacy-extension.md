@@ -41,7 +41,7 @@ Enter the Target client code.
 
 ![](../.gitbook/assets/ext-privacy-visitor.jpg)
 
-Enter your IMS Organization ID.
+Enter your IMS Organization ID. This will be in the form of UNIQUECODE@AdobeOrg and can be easily found via the [Adobe Experience Cloud Debugger](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj).
 
 ### AdCloud
 
